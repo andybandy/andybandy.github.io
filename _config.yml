@@ -20,26 +20,32 @@ author:
 paginate: 5
 
 # Custom vars
-cover: /assets/images/cover.jpg
+cover: /assets/images/cover.JPG
 
 social:
   - icon: twitter
     url: https://twitter.com/rejka
     desc: Follow me on twitter
 
+  - icon: github
+    url: https://github.com/andybandy
+    desc: Fork me on github
+
   - icon: facebook
     url: https://facebook.com/iamandybandy
     desc: Make friends on facebook
 
-  - icon: github
-    url: https://github.com/andybandy
-    desc: Fork me on github
+  - icon: instagram
+    url: https://instagram.com/iamandybandy
+    desc: Follow me on instagram
 
 menu:
   - title: Home
     url: /
   - title: About
     url: /about.html
+  - title: CV
+    url: /cv.html
 
 copyright:
   author: Andrei Shchatko
