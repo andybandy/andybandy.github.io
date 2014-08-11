@@ -1,0 +1,48 @@
+# Dependencies
+markdown: kramdown
+pygments: true
+
+# Permalinks
+permalink: /blog/:title
+
+# Setup
+title: Andy Bandy
+tagline: 'blog'
+description: 'Creative coder and new media artist'
+url: http://andybandy.github.io
+commentsystem: disqus
+disqus: andybandy
+
+author:
+  name: 'Andrei Shchatko'
+  url:
+
+paginate: 5
+
+# Custom vars
+cover: /assets/images/cover.jpg
+
+social:
+  - icon: twitter
+    url: https://twitter.com/rejka
+    desc: Follow me on twitter
+
+  - icon: facebook
+    url: https://facebook.com/iamandybandy
+    desc: Make friends on facebook
+
+  - icon: github
+    url: https://github.com/andybandy
+    desc: Fork me on github
+
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about.html
+
+copyright:
+  author: Andrei Shchatko
+  url:  http://andybandy.github.io
+  type_title: Some rights reserved
+  type_url: http://creativecommons.org/licenses/by-nc/2.5
