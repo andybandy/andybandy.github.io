@@ -8,7 +8,7 @@ title: CV
 _Контакты:_
 
 * andrei.shchatko@gmail.com
-* +7 921 897 86 74
+* +7 926 751 27 99
 * andrei.shchatko (skype)
 * https://github.com/andybandy
 
